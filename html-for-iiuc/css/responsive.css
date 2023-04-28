@@ -1,0 +1,86 @@
+@media screen and (max-width: 1200px) {
+	
+}
+@media screen and (max-width: 991px) {
+	
+}
+@media screen and (max-width: 767px) {
+	.mainmenu-section .navbar-collapse {
+		border: none;
+		box-shadow: none;
+		position: absolute;
+		top: 52px;
+		z-index: 9;
+		background: #11823b;
+		width: 100%;
+	}
+	.mainmenu-section .navbar-inverse .navbar-toggle,
+	.mainmenu-section .navbar-inverse .navbar-toggle:focus, 
+	.mainmenu-section .navbar-inverse .navbar-toggle:hover {
+		background-color: transparent;
+		border: none;
+	}
+	.mainmenu-section .navbar-toggle .icon-bar{
+		height:2px;	
+	}
+	.mainmenu-section .navbar-toggle .icon-bar+.icon-bar {
+		margin-top: 6px;
+	}
+	.navbar-inverse .navbar-nav>li>a {
+		border-top: 1px solid #057a31;
+	}
+	.mobile-logo{
+		display:block;	
+	}
+	.desktop-logo{
+		display:none;	
+	}
+	.copany-logo .mobile-logo {
+		margin: auto;
+	}
+	.mainslider{
+		height: 200px;
+	}
+	.mainslider .owl-carousel .owl-item img {
+		height: 200px;
+	}
+	.footer-content {
+		display: block;
+		text-align: center;
+	}
+	.item-footer.middle-footer {
+		padding: 20px 0 20px 0;
+	}
+	.footer-section h3 {
+		font-size: 20px;
+	}
+	.footer-content .social-media a {
+		font-size: 18px;
+		margin-right: 10px;
+	}
+	.copyright-content {
+		display: block;
+		text-align: center;
+	}
+	.copyright-rightpart p {
+		text-align: center;
+	}
+	.copyright-content p{
+		font-size:12px;	
+	}
+	.card-picture {
+		height: auto;
+	}
+	.right-siderbar {
+		padding-top: 15px;
+	}
+	.maincontent-body {
+		padding-top: 30px;
+	}
+	.welcome-content h3 {
+		margin: 0;
+		padding: 20px 0 3px 0;
+	}
+
+
+}

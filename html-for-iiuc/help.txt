@@ -1,0 +1,14 @@
+http://bimasociety.org/
+Color Plate:
+https://www.color-hex.com/color-palette/97154
+
+
+
+================
+
+Date: 08-07-2022(4hours)
+- adding header two buttons
+- polish hover animation try to improve overall
+- revise pvt. versity website for improvement
+- revsie overall on homepage 
+- adding icon 
